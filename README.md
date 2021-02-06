@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I'm an experienced Minecraft Archietect :)
 
-:city_sunset: [My Minecraft City Website](https://bay-city.vercel.app/)
+:city_sunrise: [My Minecraft City Website](https://bay-city.vercel.app/)
 
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

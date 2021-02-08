@@ -10,4 +10,4 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  JerryZhang0920 # DO NOT include the @ character, or else the build will fail!
 
-theme: jekyll-theme-cayman
+theme: cayman

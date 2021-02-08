@@ -1,1 +1,14 @@
+---
+title: "About Me"
+date: 2020-02-09
+---
+author: JerryZhang0920
+email: Jinxuan0920@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ This GitHub page is about JerryZhang0920
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  JerryZhang0920 # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman

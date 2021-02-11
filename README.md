@@ -10,6 +10,7 @@
 
 :city_sunrise: [My Minecraft City Website](https://bay-city.vercel.app/)
 
+Happy Chinese New Year!!! 新年快乐!!!
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

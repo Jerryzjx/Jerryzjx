@@ -2,7 +2,7 @@
 
 :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
 
-:computer: I’m currently learning C++, CSS, JavaScript and React
+:computer: I’m currently learning HTML, CSS, JavaScript and React
 
 📫 How to reach me: jinxuan0920@gmail.com
 

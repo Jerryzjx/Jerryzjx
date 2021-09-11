@@ -3,8 +3,8 @@
 :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022. I am interested in computer science, engineering and video game development. 
 
 ## :computer: I’m currently learning
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ## How to reach me
 <!--

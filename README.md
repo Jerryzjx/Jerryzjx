@@ -11,6 +11,7 @@
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email
 -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinxuan0920@gmail.com)
+[![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://jerryzhang0920.github.io/)
 
 ## Tools & Languages
  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

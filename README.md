@@ -2,6 +2,8 @@
 
 :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022. I am interested in computer science, engineering and web development. 
 
+Fun fact: I'm an experienced Minecraft architect.
+
 ## :computer: I’m currently learning
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
 <!--[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) -->

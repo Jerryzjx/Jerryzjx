@@ -1,6 +1,6 @@
 # Hello World, I'm Jerry 👋
 
-:mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022. I am interested in computer science, engineering and web development. 
+:mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022. I am interested in computer science, engineering and video games development. 
 
 Fun fact: I'm an experienced Minecraft architect.
 

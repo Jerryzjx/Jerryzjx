@@ -27,6 +27,8 @@ Fun fact: I'm an experienced Minecraft architect.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZhang0920&layout=compact)
 
+<img src="https://komarev.com/ghpvc/?username=JerryZhang0920&label=Profile%20views&color=00e8c1&style=for-the-badge" alt="JerryZhang0920" /> </p>
+
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -41,7 +41,7 @@ Fun fact: I'm an experienced Minecraft architect.
  
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZhang0920&langs_count=8&&hide=powershell,shell&layout=compact)](https://github.com/JerryZhang0920/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZhang0920&&exclude_repo=SmartLearningNotes&langs_count=8&&hide=powershell,shell&layout=compact)](https://github.com/JerryZhang0920/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JerryZhang0920&style=for-the-badge&logo=github&logoColor=white)
 

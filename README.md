@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2364DFDF&size=30&center=true&vCenter=true&width=500&height=55&lines=%3E+Hello+World+I'm+Jerry.;+%3E+I'm+a+life+long+learner.)](https://git.io/typing-svg)
 
-:mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
+### :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
 
-Fun fact: I'm an experienced Minecraft architect.
+### Fun fact: I'm an experienced Minecraft architect.
 
 ## :computer: I’m currently learning
 

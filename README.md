@@ -42,7 +42,7 @@ Fun fact: I'm an experienced Minecraft architect.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZhang0920&&exclude_repo=SmartLearningNotes&langs_count=8&&hide=powershell,shell&layout=compact)](https://github.com/JerryZhang0920/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JerryZhang0920&style=for-the-badge&logo=github&logoColor=white&color=5AC69F&labelColor=white)
+![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JerryZhang0920&style=for-the-badge&logo=github&logoColor=black&color=5AC69F&labelColor=white)
 
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

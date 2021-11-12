@@ -36,6 +36,7 @@
  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+ ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)
 

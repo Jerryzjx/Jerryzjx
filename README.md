@@ -2,7 +2,7 @@
 
 ### :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
 
-### Fun fact: I'm an experienced Minecraft architect.
+### Fun fact: I'm an experienced Minecraft architect. [Visit My City's Website Here](https://bay-city.vercel.app/).
 
 ## :computer: I’m currently learning
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)

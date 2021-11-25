@@ -38,7 +38,7 @@
  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)
+<!--![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZhang0920&&exclude_repo=SmartLearningNotes&langs_count=8&&hide=powershell,shell&layout=compact)](https://github.com/JerryZhang0920/github-readme-stats)-->
 ![3D Contribution](https://github.com/JerryZhang0920/JerryZhang0920/blob/main/profile-3d-contrib/profile-green-animate.svg)

@@ -18,7 +18,7 @@
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email
 -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinxuan0920@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jerry-zhang-zjx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-zhang-zjx)
 <!--[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://jerryzhang0920.github.io/) -->
 
 ## Languages

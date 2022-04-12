@@ -2,8 +2,6 @@
 
 ### :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
 
-### Fun fact: I'm an experienced Minecraft architect. [Visit My City's Website Here](https://bay-city.vercel.app/).
-
 ## How to reach me
 <!--
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email

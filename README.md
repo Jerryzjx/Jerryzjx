@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00B3B3&center=true&vCenter=true&width=500&height=100&lines=%3E+Hello+World+I'm+Jerry.;%3E+I'm+a+life+long+learner.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00B3B3&center=true&vCenter=true&width=500&height=100&lines=%3E+Hello+World+I'm+Jerry.;%3E+I'm+a+life+long+learner.)
 ### :mortar_board: I’m currently studying at Crestwood Preparatory College and I will be graduating with the class of 2022.
 
 ## How to reach me

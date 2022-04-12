@@ -4,6 +4,14 @@
 
 ### Fun fact: I'm an experienced Minecraft architect. [Visit My City's Website Here](https://bay-city.vercel.app/).
 
+## How to reach me
+<!--
+ Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email
+-->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinxuan0920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-zhang-zjx)
+<!--[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://jerryzhang0920.github.io/) -->
+
 ## :computer: I’m currently learning
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,13 +20,6 @@
 ![graphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## How to reach me
-<!--
- Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email
--->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinxuan0920@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-zhang-zjx)
-<!--[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://jerryzhang0920.github.io/) -->
 
 ## Languages
  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

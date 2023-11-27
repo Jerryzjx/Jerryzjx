@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerryzjx&&exclude_repo=SmartLearningNotes&langs_count=8&&hide=powershell,shell&layout=compact)](https://github.com/JerryZhang0920/github-readme-stats)
 <!--![3D Contribution](https://github.com/JerryZhang0920/JerryZhang0920/blob/main/profile-3d-contrib/profile-green-animate.svg)-->
-![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge&base=1237)
 
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

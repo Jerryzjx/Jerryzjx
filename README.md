@@ -47,7 +47,7 @@
  ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
  
- 
+
  
 <!--![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)-->
 
@@ -55,5 +55,6 @@
 <!--![3D Contribution](https://github.com/JerryZhang0920/JerryZhang0920/blob/main/profile-3d-contrib/profile-green-animate.svg)-->
 ![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge&base=1237)
 
+ > ### You can knock me down, But I get up twice as strong. - Lewis Hamilton
 <!--
 **JerryZhang0920/JerryZhang0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -53,7 +53,7 @@
 
 [![Top Langs](https://github-readme-stat-snowy.vercel.app/api/top-langs/?username=Jerryzjx&&exclude_repo=SmartLearningNotes&langs_count=10&&hide=powershell,shell,racket,MDX&layout=compact)](https://github.com/Jerryzjx/github-readme-stats)
 <!--![3D Contribution](https://github.com/JerryZhang0920/JerryZhang0920/blob/main/profile-3d-contrib/profile-green-animate.svg)-->
-![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge&base=1237)
+![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge)
 
  > ### You can knock me down, But I get up twice as strong. - Lewis Hamilton
 <!--

@@ -1,6 +1,11 @@
 
+<!--
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00B3B3&center=true&vCenter=true&width=500&height=100&lines=%3E+Hello+World+I'm+Jerry.;%3E+I'm+a+life+long+learner.)
-
+-->
+# 👋 Hi! I'm Jerry Zhang
+* I am a Computer Science student at the University of Waterloo
+* Web Dev Team Lead at [Electrium Mobility](https://electriummobility.com/)
+* I love creating projects that makes people's lives easier
 ## How to reach me
 <!--
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email

@@ -64,7 +64,7 @@
  
 <!--![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZhang0920&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)-->
 
-[![Top Langs](https://github-readme-stats-mu-sand.vercel.app/api/top-langs/?username=Jerryzjx&size_weight=0.5&count_weight=0.5&langs_count=10&&hide=powershell,shell,racket,MDX&layout=compact)](https://github.com/Jerryzjx/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mu-sand.vercel.app/api/top-langs/?username=Jerryzjx&size_weight=0.5&count_weight=0.5&langs_count=10&&hide=powershell,shell,racket,MDX,TEX&layout=compact)](https://github.com/Jerryzjx/github-readme-stats)
 <!--![3D Contribution](https://github.com/JerryZhang0920/JerryZhang0920/blob/main/profile-3d-contrib/profile-green-animate.svg)-->
 ![](https://komarev.com/ghpvc/?username=jerryzjx&style=for-the-badge)
 

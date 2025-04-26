@@ -7,7 +7,7 @@
 * Past Web Dev Team Lead at [Electrium Mobility](https://electriummobility.com/)
 * I love creating projects that makes people's lives easier
 * New Version of Personal Website under development - stay tuned!👀
-* SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
+* Prev SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
 ## How to reach me
 <!--
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email

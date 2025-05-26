@@ -8,6 +8,7 @@
 * I love creating projects that makes people's lives easier
 * New Version of Personal Website under development - stay tuned!👀
 * Prev SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
+* I'm Currently an Undergraduate Research Assistant at the Uwaterloo Vision and Image Processing 👀 Lab
 ## How to reach me
 <!--
  Gmail buttom: when user clicks the button, their system default mail app will open and with my email address to send an email

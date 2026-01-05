@@ -7,7 +7,7 @@
 * Past Web Dev Team Lead at [Electrium Mobility](https://electriummobility.com/)
 * I love creating projects that makes people's lives easier
 * New Version of Personal Website under development - stay tuned!👀
-* 2x SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
+* Prev 2x SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
 * I'm Currently an Undergraduate Research Assistant at the Uwaterloo Vision and Image Processing 👀 Lab
 * Fun Fact: I also race go karting 🏎️ - as a hobby - Racing Page for my personal website is also coming soon! 🏁 
 ## How to reach me

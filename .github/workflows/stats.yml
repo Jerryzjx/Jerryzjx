@@ -26,14 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          # We've converted your old URL parameters into this options string
-          options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=10
-            &size_weight=0.5
-            &count_weight=0.5
-            &hide=powershell,shell,racket,MDX,TEX
+          options: username=Jerryzjx&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=powershell,shell,racket,MDX,TEX
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

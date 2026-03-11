@@ -5,7 +5,6 @@
 # 👋 Hi! I'm Jerry Zhang
 * I am a Computer Science student at the University of Waterloo
 * Past Web Dev Team Lead at [Electrium Mobility](https://electriummobility.com/)
-* I love creating projects that makes people's lives easier
 * Prev 2x SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
 * I'm Currently an Undergraduate Research Assistant at the Uwaterloo Vision and Image Processing 👀 Lab
 * Fun Fact: I also race go karting 🏎️ - as a hobby - Racing Page for my personal website is also coming soon! 🏁 

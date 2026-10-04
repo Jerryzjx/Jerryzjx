@@ -6,7 +6,7 @@
 * I am a Computer Science student at the University of Waterloo
 * Past Web Dev Team Lead at [Electrium Mobility](https://electriummobility.com/)
 * Prev 2x SWE Intern at [Shopify](https://www.shopify.com) - Making commerce better for everyone!
-* I'm Currently an Undergraduate Research Assistant at the Uwaterloo Vision and Image Processing 👀 Lab
+* Past Undergraduate Research Assistant at the Uwaterloo Vision and Image Processing 👀 Lab
 * Fun Fact: I also race go karting 🏎️ - as a hobby! 🏁 
 ## How to reach me
 <!--
